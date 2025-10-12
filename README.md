@@ -18,8 +18,6 @@ Collaborations and discussions are highly welcome - feel free to replicate, adap
 
 ## Background
 
-Background
-
 Jakarta, Indonesia, has been consistently ranked among the most polluted cities in the world. In September 2023, it recorded an alarming 
 Air Quality Index (AQI) of 287 µg/m³, making it the most polluted city globally at that time — far exceeding the World Health Organization (WHO) 
 threshold for unhealthy air quality. 
