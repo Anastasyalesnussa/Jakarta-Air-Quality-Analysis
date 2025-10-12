@@ -1,4 +1,4 @@
-# Jakarta Air Quality Analysis (2010–2025, excluding 2022)
+# Jakarta Air Quality Analysis (2010–2025)
 
 This project analyzes over a decade of air quality data in Jakarta, Indonesia, focusing on major pollutants — **PM2.5, PM10, SO₂, CO, O₃, and NO₂**.  
 Using Python and Matplotlib, it explores pollution trends, emission patterns, and potential links to energy use and urbanization.
