@@ -60,13 +60,13 @@ This project aims to support **data-driven emission reduction** and **urban ener
 ## Visualizations
 
 **Average Monthly PM2.5 Trend**
-![Monthly PM2.5](visuals/monthly_trends.png)
+![Monthly PM2.5](Visuals/monthly_trends.png)
 
 **Pollutant Correlation Matrix**
-![Comparison of pollutant levels](visuals/pollutant_comparison.png)
+![Comparison of pollutant levels](Visuals/pollutant_comparison.png)
 
 **Individual Pollutant Trend**
-![Individual pollutant trend](visuals/pollutant_subplots.png)
+![Individual pollutant trend](Visuals/pollutant_subplots.png)
 
 ---
 
