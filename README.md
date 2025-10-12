@@ -5,7 +5,7 @@ Using Python and Matplotlib, it explores pollution trends, emission patterns, an
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - **PM2.5 and PM10** show consistent seasonal peaks during the dry season (June–August).
 - **SO₂ and NO₂** concentrations indicate ongoing industrial and vehicular contributions.
 - **O₃** levels fluctuate with sunlight intensity, showing photochemical smog activity.
@@ -14,14 +14,14 @@ Using Python and Matplotlib, it explores pollution trends, emission patterns, an
 
 ---
 
-## 🔍 Methods
+## Methods
 - **Language:** Python  
 - **Libraries:** pandas, matplotlib, seaborn, numpy  
 - **Analysis:** Descriptive statistics, temporal trend visualization, correlation matrix  
 
 ---
 
-## 🌱 Sustainability Context
+## Sustainability Context
 This project aims to support **data-driven emission reduction** and **urban energy transition** strategies by:
 - Encouraging **renewable-based transport electrification**  
 - Improving **industrial emission reporting**  
@@ -29,7 +29,7 @@ This project aims to support **data-driven emission reduction** and **urban ener
 
 ---
 
-## 📈 Example Visualizations
+## Visualizations
 
 **Average Monthly PM2.5 Trend**
 ![Monthly PM2.5](visuals/monthly_trends.png)
@@ -39,14 +39,14 @@ This project aims to support **data-driven emission reduction** and **urban ener
 
 ---
 
-## 🧩 Next Steps
+## Next Steps
 - Apply **machine learning models** to predict pollution peaks.  
 - Explore **carbon capture potential** in urban-industrial zones.  
 - Compare Jakarta’s emissions with other ASEAN megacities.  
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Anastasya Lesnussa**  
 B.Eng in Oil & Gas Engineering | Data Analyst in Energy Transition  
 🌍 [LinkedIn](https://linkedin.com/in/anastasyalesnussa) 
