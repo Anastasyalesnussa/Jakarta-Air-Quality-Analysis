@@ -12,7 +12,7 @@ in exploring the data analytics side of energy transition and carbon capture tec
 This repository represents my first independent data research project, where I analyze and explore 
 Jakarta’s air quality using a data-driven approach. The goal is to uncover pollution trends, emission patterns, and potential 
 environmental risks, as well as generate insights that could inform urban policy and environmental management.
-Collaborations and discussions are highly welcome — feel free to replicate, adapt, or expand upon this analysis for related research topics.
+Collaborations and discussions are highly welcome - feel free to replicate, adapt, or expand upon this analysis for related research topics.
 
 ---
 
