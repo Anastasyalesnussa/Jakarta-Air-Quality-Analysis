@@ -31,6 +31,19 @@ With a population exceeding 11.6 million, Jakarta experiences severe traffic con
 and diesel-fueled trucks that emit significant amounts of nitrogen dioxide (NO₂) and sulfur dioxide (SO₂).
 High concentrations of these gases are typically observed in densely populated and high-traffic areas.
 
+## Research Focus
+
+This project analyzes over a decade of historical air quality data from Jakarta, focusing on six key pollutants:
+- PM2.5 (Fine Particulate Matter)
+- PM10 (Coarse Particulate Matter)
+- SO₂ (Sulfur Dioxide)
+- CO (Carbon Monoxide)
+- O₃ (Ozone)
+- NO₂ (Nitrogen Dioxide)
+
+Using Python and libraries such as Matplotlib, the study applies a data visualization and exploratory analysis approach to examine long-term trends, seasonal variations, and inter-pollutant relationships.
+The aim is to generate insights that can support evidence-based environmental policies, public awareness, and sustainable urban development.
+
 ---
 
 ## Key Insights
@@ -70,10 +83,13 @@ This project aims to support **data-driven emission reduction** and **urban ener
 
 ---
 
-## Possibility further projects
-- Apply **machine learning models** to predict pollution peaks.  
-- Explore **carbon capture potential** in urban-industrial zones.  
-- Compare Jakarta’s emissions with other ASEAN megacities.  
+## Future Work: Predictive Modeling and Emission Reduction Scenarios
+
+This project will be expanded to include air quality forecasting and scenario-based modeling.
+Using machine learning, I plan to predict Jakarta’s pollutant levels for the next decade and 
+simulate various environmental interventions such as electric vehicle adoption, carbon capture implementation, and urban green expansion.
+
+These simulations will help visualize how different sustainability strategies could impact Jakarta’s air quality by 2030 and beyond.
 
 ---
 
