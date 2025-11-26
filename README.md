@@ -95,5 +95,5 @@ These simulations will help visualize how different sustainability strategies co
 
 ## Author
 **Anastasya Lesnussa**  
-B.Eng in Oil & Gas Engineering | Data Analyst in Energy Transition  
-🌍 [LinkedIn](https://linkedin.com/in/anastasyalesnussa) 
+B.Eng in Oil & Gas Engineering | Data Enthusiast in Energy Transition  
+[LinkedIn](https://linkedin.com/in/anastasyalesnussa) 
